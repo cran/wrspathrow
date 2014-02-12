@@ -1,0 +1,13 @@
+d7e09278318804dd5b361868f42afd05 *DESCRIPTION
+e7adb15800662a154d80fb653508e444 *NAMESPACE
+4af3326bddac9e5c58332be3f0609ce7 *R/pathrow_num.R
+e651b5fae82e4205570861128f9cef2c *R/pathrow_poly.R
+996b7f89d8fd81fe20038cd3567e4d47 *R/wrspathrow-package.R
+2209d04f58cb40a05534489ebe84830a *README.md
+23548be2979f89003a2ef89bd1901a30 *data/test_poly.RData
+69ced32623e338773e64282f9ee5c796 *man/pathrow_num-methods.Rd
+aa18ef7bd33c6873ebc313c6776f5753 *man/pathrow_poly.Rd
+8a46320d43e89fea4fa54875ac4cb112 *man/test_poly.Rd
+0e4baa4bbfeeb7ceb37338ccba331652 *man/wrs1_asc_desc.Rd
+a7f875f0c26a38b018d8a5a131904aaa *man/wrs2_asc_desc.Rd
+d58cbe06ea6f293fd6aba679c66daaca *man/wrspathrow.Rd
